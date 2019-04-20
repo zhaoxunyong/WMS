@@ -1,0 +1,21 @@
+.classpath
+.project
+.gradle
+.settings
+.pmd
+.checkstyle
+target/
+.idea
+.springBeans
+.factorypath
+.apt_generated/
+.DS_Store
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.history/
+.vscode/
